@@ -6,13 +6,11 @@ This repository contains the code of our ACL 2025 paper:
 
 
 ### Train
-Using Candidate Soups without AT model for re-scoring:
 ```bash
 bash train.sh
 ```
 
 ### Inference
-Using Candidate Soups without AT model for re-scoring:
 ```bash
 bash test.sh
 ```
