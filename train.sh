@@ -1,0 +1,1 @@
+accelerate launch --config_file multi_gpu.yaml train.py
